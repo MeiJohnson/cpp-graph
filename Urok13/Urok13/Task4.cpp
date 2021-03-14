@@ -1,0 +1,14 @@
+#include<iostream>
+
+using namespace std;
+
+/*
+Задание №4: Напишите функцию doubleNumber(), которая 
+принимает целое число в качестве параметра, удваивает 
+его, а затем возвращает результат обратно в caller.
+*/
+
+int doubleNumber(int a)
+{
+	return a * 2;
+}
